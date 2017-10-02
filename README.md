@@ -14,6 +14,6 @@ repositories {
     maven { url "https://jitpack.io" }
 }
 dependencies {
-    compile 'com.github.cs125-illinois:wavaudio:0.1'
+    compile 'com.github.cs125-illinois:wavfile:0.1'
 }
 ```
